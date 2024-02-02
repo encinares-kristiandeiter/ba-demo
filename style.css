@@ -73,5 +73,8 @@ form {
   text-align: center;
 }
 #your-privacy-choices-banner {
-  font-family: "Times New Roman", Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+#onetrust-policy-text {
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
 }
